@@ -1,0 +1,25 @@
+.paginatoin .pageClick{
+    cursor: pointer;
+    margin: 0px 30px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 10px;
+}
+.paginatoin .pageactive{
+    cursor: pointer;
+    margin: 0px 30px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 10px;
+    border-color: gray;
+}
+.paginatoin{
+margin: 10px 70px;
+justify-content: space-between;
+margin-bottom: 20%;
+text-align: center;
+margin-top: 20px;
+}
+.paginatoin span{
+    cursor: pointer;
+}

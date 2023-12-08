@@ -1,0 +1,17 @@
+.pagination{
+   
+margin: 10px 70px;
+justify-content: space-between;
+margin-bottom: 20%;
+  
+}
+.pagination >span{
+  cursor: pointer;
+
+ 
+}
+.pagination_num{
+
+  padding: 0px 10px;
+  
+}
